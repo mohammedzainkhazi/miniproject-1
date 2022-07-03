@@ -1,0 +1,23 @@
+.doctorbody{
+    /* background-color: rgb(255, 0, 106); */
+    /* background-image: url(../Images/doc-patient1.jpg); */
+    /* Full height */
+    height: auto;
+    /* Center and scale the image nicely */
+    background-position: center;
+    display: flex;
+    justify-content: space-between;
+    padding-bottom:  1000px;
+    background-size: cover;
+    align-items: center;
+    width: 100%;
+    top:50%;
+    margin-top: 50px;
+    margin-bottom:50px;
+}
+
+.sidebar-doc{
+    height: 100%;
+    width: auto;
+    background-color: #7ca9d3;
+}
